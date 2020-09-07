@@ -70,6 +70,7 @@ footer {
     left: 0;
     right: 0;
     height: 80px;
+    z-index : 1;
 }
 header {
     position: fixed; 
@@ -79,6 +80,7 @@ header {
     height: 50px;
     background-color: #00000040;
     padding-bottom: 8px;
+    z-index : 1;
 }
 .row {
 	display: flex;
